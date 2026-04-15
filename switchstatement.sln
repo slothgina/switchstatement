@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "switchstatment", "switchstatment", "{CCD1EAF9-CEA0-AE03-6B58-A211DD6E024A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "switchstatment\TestProject\TestProject.csproj", "{36F779CC-9CCB-4B81-3E33-8EB01BB0657C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36F779CC-9CCB-4B81-3E33-8EB01BB0657C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36F779CC-9CCB-4B81-3E33-8EB01BB0657C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36F779CC-9CCB-4B81-3E33-8EB01BB0657C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36F779CC-9CCB-4B81-3E33-8EB01BB0657C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{36F779CC-9CCB-4B81-3E33-8EB01BB0657C} = {CCD1EAF9-CEA0-AE03-6B58-A211DD6E024A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E921331-87CD-4CB0-B5CC-DA4741E61D53}
+	EndGlobalSection
+EndGlobal

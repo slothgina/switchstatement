@@ -1,17 +1,24 @@
 ﻿//int employeeLevel = 200;
-int employeeLevel = 201;
+//int employeeLevel = 201;
+int employeeLevel = 100;
+
+
 string employeeName = "John Smith";
 
 string title = "";
 
 switch (employeeLevel)
 {
+    //case 100:
+        //title = "Junior Associate";
+       // break;
+    //case 200:
+       // title = "Senior Associate";
+       // break;
     case 100:
-        title = "Junior Associate";
-        break;
     case 200:
-        title = "Senior Associate";
-        break;
+    title = "Senior Associate";
+    break;
     case 300:
         title = "Manager";
         break;
